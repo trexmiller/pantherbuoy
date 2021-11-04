@@ -10,5 +10,5 @@
   
 Design files are provided in .json format for editing in EasyEDA
   
-<h9>Inspired by Mishipeshu the "water panther" 
+<h9><i>Inspired by Mishipeshu the "water panther" 
 
